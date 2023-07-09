@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\c#\Sinema Bilet Satış\Sinema Bilet Satış\bin\Debug\Sinema Bilet Satış.exe.config
+C:\Users\salih\OneDrive\Masaüstü\c#\Sinema Bilet Satış\Sinema Bilet Satış\bin\Debug\Sinema Bilet Satış.exe
+C:\Users\salih\OneDrive\Masaüstü\c#\Sinema Bilet Satış\Sinema Bilet Satış\bin\Debug\Sinema Bilet Satış.pdb
+C:\Users\salih\OneDrive\Masaüstü\c#\Sinema Bilet Satış\Sinema Bilet Satış\obj\Debug\Sinema Bilet Satış.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\c#\Sinema Bilet Satış\Sinema Bilet Satış\obj\Debug\Sinema Bilet Satış.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\c#\Sinema Bilet Satış\Sinema Bilet Satış\obj\Debug\Sinema_Bilet_Satış.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\c#\Sinema Bilet Satış\Sinema Bilet Satış\obj\Debug\Sinema_Bilet_Satış.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\c#\Sinema Bilet Satış\Sinema Bilet Satış\obj\Debug\Sinema Bilet Satış.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\c#\Sinema Bilet Satış\Sinema Bilet Satış\obj\Debug\Sinema Bilet Satış.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\c#\Sinema Bilet Satış\Sinema Bilet Satış\obj\Debug\Sinema Bilet Satış.exe
+C:\Users\salih\OneDrive\Masaüstü\c#\Sinema Bilet Satış\Sinema Bilet Satış\obj\Debug\Sinema Bilet Satış.pdb
